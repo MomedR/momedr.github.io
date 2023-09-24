@@ -3,5 +3,7 @@ h1{
     color: purple;
     text-align: center;
     text-transform: uppercase;
-    background-color: #0E1826;
+}
+header{
+    backround-color: #0E1826;
 }
