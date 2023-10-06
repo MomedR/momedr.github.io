@@ -29,7 +29,7 @@ ul{
     flex-direction: row;
     gap: 30px;   
 }
-nav ul:hover{
+nav li:hover{
     background-color:white;
 }
 a{
