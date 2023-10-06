@@ -30,7 +30,7 @@ ul{
     gap: 30px;   
 }
 nav li:hover{
-    background-color:#6E34BF;
+    background-color:grey;
     border-radius:4px;
 }
 a{
