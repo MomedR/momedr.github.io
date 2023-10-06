@@ -30,8 +30,8 @@ ul{
     gap: 30px;   
 }
 nav li:hover{
-    background-color:#6662D9;
-    border-radius:3px;
+    background-color:#6E34BF;
+    border-radius:4px;
 }
 a{
     color: white;
